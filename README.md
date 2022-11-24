@@ -26,5 +26,6 @@
  
 - python의 Pandas를 활용하여 데이터의 기초적인 활용법을 습득했습니다.
 - DataFrame, Serise, Stack 등을 데이터에 적용
+- Categorical을 사용한 메모리 관리
 
 <br>
